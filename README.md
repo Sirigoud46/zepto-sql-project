@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b6b894f-0be5-4cf4-882f-2b66bac6b4dd" /># zepto-sql-project
+
 SQL data analysis and cleaning project using Zepto dataset
 # Zepto SQL Data Analysis Project
 
